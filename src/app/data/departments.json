@@ -1,0 +1,34 @@
+[
+  {
+    "id": "engineering",
+    "name": "Engineering"
+  },
+  {
+    "id": "product",
+    "name": "Product"
+  },
+  {
+    "id": "hr",
+    "name": "Human Resources"
+  },
+  {
+    "id": "product",
+    "name": "Product"
+  },
+  {
+    "id": "accounting",
+    "name": "Accounting"
+  },
+  {
+    "id": "hiring",
+    "name": "Hiring"
+  },
+  {
+    "id": "marketing",
+    "name": "Marketing"
+  },
+  {
+    "id": "sales",
+    "name": "Sales"
+  }
+]

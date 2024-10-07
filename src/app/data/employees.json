@@ -1,0 +1,356 @@
+[
+  {
+    "id": "6693c92b7a764d7b9012511f",
+    "firstName": "Norton",
+    "lastName": "Oliver",
+    "email": "nortonoliver@xylar.com",
+    "phone": "+1 (921) 418-2909",
+    "address": "237 Lott Street, Woodruff, Alabama, 3383",
+    "departments": [
+      {
+        "id": "engineering",
+        "name": "Engineering"
+      },
+      {
+        "id": "product",
+        "name": "Product"
+      }
+    ]
+  },
+  {
+    "id": "6693c92bf2aac33191f1df4f",
+    "firstName": "Pena",
+    "lastName": "Sampson",
+    "email": "penasampson@xylar.com",
+    "phone": "+1 (957) 582-3722",
+    "address": "411 Vermont Street, Delshire, Texas, 3331",
+    "departments": [
+      {
+        "id": "hr",
+        "name": "Human Resources"
+      },
+      {
+        "id": "product",
+        "name": "Product"
+      }
+    ]
+  },
+  {
+    "id": "6693c92b8a4a4711f5f80aaf",
+    "firstName": "Mooney",
+    "lastName": "Nunez",
+    "email": "mooneynunez@xylar.com",
+    "phone": "+1 (854) 499-2558",
+    "address": "610 Williams Place, Stockwell, New York, 2198",
+    "departments": [
+      {
+        "id": "hr",
+        "name": "Human Resources"
+      },
+      {
+        "id": "engineering",
+        "name": "Engineering"
+      }
+    ]
+  },
+  {
+    "id": "6693c92bb7137ed70c938ab0",
+    "firstName": "Flossie",
+    "lastName": "Oneill",
+    "email": "flossieoneill@xylar.com",
+    "phone": "+1 (899) 459-2180",
+    "address": "163 Cedar Street, Machias, California, 1087",
+    "departments": [
+      {
+        "id": "accounting",
+        "name": "Accounting"
+      }
+    ]
+  },
+  {
+    "id": "6693c92bd1b1fd240de193e7",
+    "firstName": "Cotton",
+    "lastName": "Underwood",
+    "email": "cottonunderwood@xylar.com",
+    "phone": "+1 (945) 506-2554",
+    "address": "363 Milford Street, Idamay, Federated States Of Micronesia, 6762",
+    "departments": [
+      {
+        "id": "accounting",
+        "name": "Accounting"
+      }
+    ]
+  },
+  {
+    "id": "6693c92bd8faeb056b730762",
+    "firstName": "Cora",
+    "lastName": "Clarke",
+    "email": "coraclarke@xylar.com",
+    "phone": "+1 (826) 594-2597",
+    "address": "170 Rockaway Avenue, Joes, Michigan, 1922",
+    "departments": [
+      {
+        "id": "hiring",
+        "name": "Hiring"
+      },
+      {
+        "id": "hr",
+        "name": "Human Resources"
+      }
+    ]
+  },
+  {
+    "id": "6693c92bee9b8a4b03c55546",
+    "firstName": "Cleo",
+    "lastName": "George",
+    "email": "cleogeorge@xylar.com",
+    "phone": "+1 (989) 556-2798",
+    "address": "228 Walker Court, Westerville, Hawaii, 7321",
+    "departments": [
+      {
+        "id": "marketing",
+        "name": "Marketing"
+      },
+      {
+        "id": "sales",
+        "name": "Sales"
+      }
+    ]
+  },
+  {
+    "id": "6693c92bccb8aaba604bec05",
+    "firstName": "Willie",
+    "lastName": "Mcgowan",
+    "email": "williemcgowan@xylar.com",
+    "phone": "+1 (844) 481-2385",
+    "address": "212 Plaza Street, Homestead, Minnesota, 7319",
+    "departments": [
+      {
+        "id": "engineering",
+        "name": "Engineering"
+      },
+      {
+        "id": "product",
+        "name": "Product"
+      }
+    ]
+  },
+  {
+    "id": "6693c92b1a2325d6f3745760",
+    "firstName": "Isabella",
+    "lastName": "Stokes",
+    "email": "isabellastokes@xylar.com",
+    "phone": "+1 (972) 526-2971",
+    "address": "793 Kensington Walk, Nord, Georgia, 4394",
+    "departments": [
+      {
+        "id": "hr",
+        "name": "Human Resources"
+      },
+      {
+        "id": "product",
+        "name": "Product"
+      }
+    ]
+  },
+  {
+    "id": "6693c92bbaafde28f27f22c0",
+    "firstName": "Swanson",
+    "lastName": "Whitley",
+    "email": "swansonwhitley@xylar.com",
+    "phone": "+1 (928) 486-3347",
+    "address": "666 Commercial Street, Lindcove, South Carolina, 8817",
+    "departments": [
+      {
+        "id": "hr",
+        "name": "Human Resources"
+      },
+      {
+        "id": "engineering",
+        "name": "Engineering"
+      }
+    ]
+  },
+  {
+    "id": "6693c92b3803dee2b0e0f9bf",
+    "firstName": "Ollie",
+    "lastName": "Rollins",
+    "email": "ollierollins@xylar.com",
+    "phone": "+1 (997) 429-2459",
+    "address": "271 Bedford Place, Baker, Oklahoma, 7326",
+    "departments": [
+      {
+        "id": "accounting",
+        "name": "Accounting"
+      }
+    ]
+  },
+  {
+    "id": "6693c92b125f69969dc41747",
+    "firstName": "Rose",
+    "lastName": "Hurst",
+    "email": "rosehurst@xylar.com",
+    "phone": "+1 (977) 401-2382",
+    "address": "147 Vernon Avenue, Berlin, Indiana, 3409",
+    "departments": [
+      {
+        "id": "accounting",
+        "name": "Accounting"
+      }
+    ]
+  },
+  {
+    "id": "6693c92bb621a743cb922c1c",
+    "firstName": "Dawson",
+    "lastName": "Reeves",
+    "email": "dawsonreeves@xylar.com",
+    "phone": "+1 (814) 482-3297",
+    "address": "845 Grafton Street, Shrewsbury, New Mexico, 3887",
+    "departments": [
+      {
+        "id": "hiring",
+        "name": "Hiring"
+      },
+      {
+        "id": "hr",
+        "name": "Human Resources"
+      }
+    ]
+  },
+  {
+    "id": "6693c92b9f577b4ca9e7d401",
+    "firstName": "Rachelle",
+    "lastName": "Albert",
+    "email": "rachellealbert@xylar.com",
+    "phone": "+1 (978) 524-3611",
+    "address": "138 Strauss Street, Cawood, Idaho, 2321",
+    "departments": [
+      {
+        "id": "marketing",
+        "name": "Marketing"
+      },
+      {
+        "id": "sales",
+        "name": "Sales"
+      }
+    ]
+  },
+  {
+    "id": "6693c92b479c9b982be14ca6",
+    "firstName": "Angelina",
+    "lastName": "Bradford",
+    "email": "angelinabradford@xylar.com",
+    "phone": "+1 (941) 427-3477",
+    "address": "622 Polar Street, Condon, Vermont, 5401",
+    "departments": [
+      {
+        "id": "engineering",
+        "name": "Engineering"
+      },
+      {
+        "id": "product",
+        "name": "Product"
+      }
+    ]
+  },
+  {
+    "id": "6693c92b7552ab3a3007ae8a",
+    "firstName": "Sondra",
+    "lastName": "Lucas",
+    "email": "sondralucas@xylar.com",
+    "phone": "+1 (803) 447-3787",
+    "address": "378 Fleet Place, Savage, Marshall Islands, 4507",
+    "departments": [
+      {
+        "id": "hr",
+        "name": "Human Resources"
+      },
+      {
+        "id": "product",
+        "name": "Product"
+      }
+    ]
+  },
+  {
+    "id": "6693c92b1c84002876c0b434",
+    "firstName": "Dolores",
+    "lastName": "Bullock",
+    "email": "doloresbullock@xylar.com",
+    "phone": "+1 (929) 564-3249",
+    "address": "468 Ridgewood Place, Albrightsville, West Virginia, 2731",
+    "departments": [
+      {
+        "id": "hr",
+        "name": "Human Resources"
+      },
+      {
+        "id": "engineering",
+        "name": "Engineering"
+      }
+    ]
+  },
+  {
+    "id": "6693c92bd553fa95ba27ccca",
+    "firstName": "Weaver",
+    "lastName": "Stone",
+    "email": "weaverstone@xylar.com",
+    "phone": "+1 (981) 539-2620",
+    "address": "807 Taylor Street, Brownlee, Louisiana, 7899",
+    "departments": [
+      {
+        "id": "accounting",
+        "name": "Accounting"
+      }
+    ]
+  },
+  {
+    "id": "6693c92bed5af65ae10902cd",
+    "firstName": "West",
+    "lastName": "Harmon",
+    "email": "westharmon@xylar.com",
+    "phone": "+1 (856) 556-3425",
+    "address": "910 Stuyvesant Avenue, Marienthal, Arizona, 7823",
+    "departments": [
+      {
+        "id": "6693c92b4c0eb5ea82f79505",
+        "name": ""
+      }
+    ]
+  },
+  {
+    "id": "6693c92b8858fb9023de2e4a",
+    "firstName": "Norris",
+    "lastName": "Barnett",
+    "email": "norrisbarnett@xylar.com",
+    "phone": "+1 (986) 456-2392",
+    "address": "413 Pineapple Street, Cassel, Northern Mariana Islands, 9194",
+    "departments": [
+      {
+        "id": "hiring",
+        "name": "Hiring"
+      },
+      {
+        "id": "hr",
+        "name": "Human Resources"
+      }
+    ]
+  },
+  {
+    "id": "6693c92b8d001e7307271019",
+    "firstName": "Wolfe",
+    "lastName": "Jones",
+    "email": "wolfejones@xylar.com",
+    "phone": "+1 (830) 454-3313",
+    "address": "825 Rock Street, Waterford, American Samoa, 4563",
+    "departments": [
+      {
+        "id": "marketing",
+        "name": "Marketing"
+      },
+      {
+        "id": "sales",
+        "name": "Sales"
+      }
+    ]
+  }
+]

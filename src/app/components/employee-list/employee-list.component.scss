@@ -1,0 +1,41 @@
+.filter {
+  margin-bottom: 20px;
+}
+
+.search-input {
+  width: 250px;
+  height: 32px;
+  padding: 5px 15px;
+  margin-right: 15px;
+  font-size: 14px;
+  border: 1px solid #ddd;
+  box-shadow: none;
+}
+
+.select-input {
+  height: 32px;
+  padding: 5px 15px;
+  border: 1px solid #ddd;
+}
+
+.table {
+  border-collapse: collapse;
+}
+
+.table td,
+.table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.table tr:nth-child(even){
+  background-color: #f2f2f2;
+}
+
+.table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}

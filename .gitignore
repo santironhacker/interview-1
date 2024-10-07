@@ -1,0 +1,11 @@
+# Node.js dependencies
+node_modules/
+
+# IDE and editor specific files
+/vscode/
+.DS_Store
+
+# Angular generated files and build artifacts
+/dist/
+/coverage/
+/.angular/

@@ -1,0 +1,48 @@
+<h1>Employee management</h1>
+
+<div class="filter">
+  <input
+    class="search-input"
+    placeholder="Search by name or email"
+    type="text"
+    (keyup)="handleSearchInput($event)"
+  />
+  <select
+    class="select-input"
+    [ngModel]="departmentIdSubject$ | async"
+    (ngModelChange)="handleDepartmentSelection($event)"
+  >
+    <option
+      *ngFor="let department of departmentsList$ | async"
+      [value]="department.id"
+    >
+      {{ department.name }}
+    </option>
+  </select>
+</div>
+
+<!-- Employee list/table -->
+<table class="table">
+  <thead>
+    <tr>
+      <th>First Name</th>
+      <th>Last Name</th>
+      <th>Email</th>
+      <th>Phone</th>
+      <th>Address</th>
+      <th>Departments</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let employee of filteredEmployeesList$ | async">
+      <td>{{ employee.firstName }}</td>
+      <td>{{ employee.lastName }}</td>
+      <td>{{ employee.email }}</td>
+      <td>{{ employee.phone }}</td>
+      <td>{{ employee.address }}</td>
+      <td>
+        {{ employee.departments | department }}
+      </td>
+    </tr>
+  </tbody>
+</table>
